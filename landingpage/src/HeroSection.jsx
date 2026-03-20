@@ -68,16 +68,16 @@ const HeroSection = () => {
             <div className="space-y-8 pt-10">
               <div className="flex items-center gap-3">
                 <div className="h-1 w-8 bg-[#c53363] rounded-full" />
-                <p className="text-sm font-bold text-[#c53363]">Welcome to the</p>
+                <p className="text-sm font-bold text-white lg:text-[#c53363]">Welcome to the</p>
               </div>
 
-              <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-medium leading-[1.1] text-gray-900">
+              <h1 className="text-5xl md:text-6xl lg:text-7xl font-serif font-medium leading-[1.1] text-white lg:text-gray-900">
                 Unprecedented <br />
-                Era of <span className="text-[#c53363]">Real Estate</span> <br />
-                <span className="text-[#c53363]">Investing</span>
+                Era of <span className="text-white lg:text-[#c53363]">Real Estate</span> <br />
+                <span className="text-white lg:text-[#c53363]">Investing</span>
               </h1>
 
-              <p className="text-base text-gray-500 max-w-lg leading-relaxed">
+              <p className="text-base text-white lg:text-gray-500 max-w-lg leading-relaxed">
                 Lilypads uses sophisticated technologies for data-driven decisions in investing, managing and funding commercial real estate assets.
               </p>
 
@@ -88,16 +88,16 @@ const HeroSection = () => {
 
               <div className="flex flex-wrap gap-12 pt-8">
                 <div>
-                  <p className="text-3xl font-bold text-[#7D59C3]">658+</p>
-                  <p className="text-sm text-gray-600 font-medium mt-1">Properties Registered</p>
+                  <p className="text-3xl font-bold text-white lg:text-[#7D59C3]">658+</p>
+                  <p className="text-sm text-white lg:text-gray-600 font-medium mt-1">Properties Registered</p>
                 </div>
                 <div>
-                  <p className="text-3xl font-bold text-[#7D59C3]">685+</p>
-                  <p className="text-sm text-gray-600 font-medium mt-1">Deals Cracked</p>
+                  <p className="text-3xl font-bold text-white lg:text-[#7D59C3]">685+</p>
+                  <p className="text-sm text-white lg:text-gray-600 font-medium mt-1">Deals Cracked</p>
                 </div>
                 <div>
-                  <p className="text-3xl font-bold text-[#7D59C3]">255+</p>
-                  <p className="text-sm text-gray-600 font-medium mt-1">Investors</p>
+                  <p className="text-3xl font-bold text-white lg:text-[#7D59C3]">255+</p>
+                  <p className="text-sm text-white lg:text-gray-600 font-medium mt-1">Investors</p>
                 </div>
               </div>
             </div>
